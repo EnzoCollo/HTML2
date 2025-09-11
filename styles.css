@@ -1,0 +1,30 @@
+h1 {
+    color : #84482D;
+}
+
+p {
+    font-size: 18px;
+    color: #1C1D1F;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item{
+    flex: 1; 
+    border-style: solid;
+    border-color: #BE6841;
+    border-width: 2px;
+    padding: 20px;
+    background-color: #B57152;
+    color: white;
+}
